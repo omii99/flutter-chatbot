@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lily-chatbot-tm9x",
+  "private_key_id": "c16af05e7cd90d57e090e908f6e9ac95c9c213df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCsue1wzBe8gR8M\nVUusCt9z74+N/8l4/d2PtSt/g/A9NV4hcX5Pai6P/6/zW+Aaq7q+rhNwXP+OiIPn\nUxr0Om4Cu1GMmJXwNBsHd8K7R8DcctbFnI/v+jf0IxuP7UDSagdHQhg8mZEiTU34\n7yWbUoOpGsGsicBjQSSF3H3mEP1jg6OouEW2iCWKk5LEnM68CVD71BnGNnZ1Ojvl\nOW4GxW2QzwnkWBW16+5wSzdG1CSeiHxxNwFtXtqF5YKTklb90g9GlceBcowq3Fv2\ngat+IrZ1cNgQ/EU8U/GexshU2/04jy1A88R76/PNfdB61lX2BEWS5tJmqdaYUtCb\nGj33F/GpAgMBAAECggEAEePgGALLopatJJXhFJy7sEJr2AVaVNHWlP/q1XZQ98YD\nTet3bbpNwFR3YPlvKNQIr59QHB9FyPmSz+7np8w1gMruE2Xqgcqj0g4xeTxhWXP7\nktQ4hF6iVQMd47ZrNGAPCO5rnDs7sRXYsaPzfTb6tBU1Yi2SY7VnlwXTdHTmCdx4\n8KRBWfR9dgxOr0IkhrxyDScRe6FDb4yLvj3eFGYKtK4N/QWSj71jTyLSaVB3CO+A\n2MQLHndBzLlq1qvW8Vsy86mVYmDKKCWq8rrCCuNEVfyl0DguVTZFDFxbY50Vh6OJ\nODazlTsckLiFG38Ism0Q7c9+Zf98kju/Sw3qm5sTUQKBgQDjmub3DP2zNDup6jFL\nZukaO1vaBE5WT0U+LaKxblKB+jkhf0n1wQpgVMfkaXhri4mng1e21N+b2NbM1mj8\n/0sssyMslD8G3llDT9oGRHpmV6xOi8DzRoLgAd8mqRS7Twnek3pX6y43GpZjttpv\nfd/FFlRepgtA3A7Z8VYrW2HHtwKBgQDCRlfLVeXi7glJapsKUGmmeYahtglZSp2F\nrsdMuhW52r48dJwYNqfQUBSwY6k/vAHutxQYRDsMcTKhOChist432gcBqO7cm7eg\ntOv0D15sbfw1w3WaxTgEY62P3w0PWUOAnrGMsy9p4tW0uPdeCrTk2OEKGRmV0kc5\niW/77DRRnwKBgHdkaEer7uE0Qx/sk5MkFp8GCDajD5zC1GW7dp5waqN36MQji154\ntsK1dm3gzaRMfBb9FOP5YprT8kldJ5GfMYXvKkJWOYGW3Wgr2Qh0n2hUETTapop2\nsGxlTvNuuktPOLQi1IiN+544Oi9wWcEmXF18SyGjJEAPr1KwAC2aL/6dAoGAVtW0\nNjmduFHnKr6QsAqDPprBF5TTFusn/3HAuUXPojPopgMFJjl/xreUl8bkBo3VW0rP\nm40by5LpK3B7dKo4c0Rrr00//rFHYXicookgDl0Wxz0nWtdeE3AuSslLABpI9rt3\n5sjMn4p5NP8b6hflBQj/hVD0w6eqmEgbGsJYHEcCgYBVt8vgm4VQTx1hVs29jZ0+\neJg4up9zpEEwJV00n41BawA3B2yWOFJye5iwnFP9J9pSVeXQOWXoYssr5eCrrosH\n1tcRKfmCUrApFYzN94PfAK88dSa1jUiQKmoxh3+W4diy6mp0qjcBhG2ZqguagvZx\nq54lrnY0SFP/ONjXQcVw4g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "lily-assistant@lily-chatbot-tm9x.iam.gserviceaccount.com",
+  "client_id": "112742156362157198891",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lily-assistant%40lily-chatbot-tm9x.iam.gserviceaccount.com"
+}
